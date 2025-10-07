@@ -1,0 +1,3 @@
+/home/hiiraeth/repos/netmural/build/CMakeFiles/netmural.dir
+/home/hiiraeth/repos/netmural/build/CMakeFiles/edit_cache.dir
+/home/hiiraeth/repos/netmural/build/CMakeFiles/rebuild_cache.dir
